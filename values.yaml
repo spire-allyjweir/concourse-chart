@@ -100,7 +100,7 @@ concourse:
     enablePipelineInstances: false
 
     ## Enable P2P volume streaming between all wokrers.
-    ## By default all volume streming goes through the web nodes.
+    ## By default all volume streaming goes through the web nodes.
     ##
     enablep2pVolumeStreaming: false
 
